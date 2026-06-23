@@ -2,7 +2,7 @@
 
 ## Intern Details
 - **Intern ID:** CITS3062
-- 
+
 ## Project Overview
 FinPay is a modern fintech mobile app UI designed
 with 5 core screens — Login, Dashboard, Send Money,
